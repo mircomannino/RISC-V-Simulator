@@ -38,5 +38,5 @@ Module name | Description
 `MUX` |Implementation of a multiplexer with two 32bit input and 1bit control signal
 
 __Project owners__
-* Federico Giusti
-*  Mirco Mannino
+* Federico Giusti (https://github.com/Fede997)
+*  Mirco Mannino  (https://github.com/MircoMannino)
