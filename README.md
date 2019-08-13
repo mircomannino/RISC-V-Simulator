@@ -40,4 +40,3 @@ Module name | Description
 __Project owners__
 * Federico Giusti
 *  Mirco Mannino
-
