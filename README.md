@@ -5,6 +5,9 @@ The top level files, which test three simple programs, are:
 * cpuRISCV-cpu_factorial
 * cpuRISCV-cpu_summation
 
+### SCHEME
+![Datapath-scheme](RISCV_Datapath.pdf)
+
 Below is a top-down description of the __RISC-V processor__.
 ### CPU
 The CPU is the main module of the RISC-V processor, which coordinates all the sub-modules to ensure the operation of the entire system.
