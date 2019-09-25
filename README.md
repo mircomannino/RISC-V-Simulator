@@ -5,8 +5,12 @@ The top level files, which test three simple programs, are:
 * cpuRISCV-cpu_factorial
 * cpuRISCV-cpu_summation
 
+---
+
 ### SCHEME
-![Datapath-scheme](RISCV_Datapath.pdf)
+![Datapath-scheme](Images/RISCV_Datapath-1.jpg)
+
+---
 
 Below is a top-down description of the __RISC-V processor__.
 ### CPU
